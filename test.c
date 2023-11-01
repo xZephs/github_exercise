@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main(){
+    //hihihihihi
     int a = 2, b = 4, c = 6, x;
     x = (-b + sqrt(pow(b,2) - 4 * a * c))/(2*a);
     printf("%d\n", x);
